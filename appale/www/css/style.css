@@ -1,0 +1,28 @@
+/* Empty. Add your own CSS if you like */
+a{
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;
+}
+.col1:hover{
+	background: #ff5858;
+	color: #000000;
+}
+video{
+	height: 400px;
+	width: 100%;
+}
+h1{
+	font-size: 30px;
+	color: #83142c;
+	background: #cba1d2;
+	width: 100%;
+	padding: 10px;
+}
+.filavideo{
+	background:#ffb6b9;
+	height: 700px;
+}
+.filamendel{
+	text-align: center;
+}
